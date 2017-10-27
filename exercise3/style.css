@@ -1,0 +1,54 @@
+.rectangle {
+    width: 100%;
+    height: 50px;
+    background: #FAFAFA;
+}
+
+.container {
+ background: #FFF;
+ height: 30px;
+ width: 150px;
+ position: fixed;
+ right: 10px;
+ top: 30px;
+} 
+
+.search_bar {
+    position: relative;
+    width:100px;
+    height:25px;
+    top:30px;
+}
+
+
+.tv {
+  position: relative;
+  left: 70px;
+  top: 13px;
+  width: 30px;
+  height: 20px;
+  margin: 20px 0;
+  background: red;
+  border-radius: 50% / 10%;
+  color: white;
+  text-align: center;
+  text-indent: .1em;
+}
+.tv:before {
+  content: '';
+  position: absolute;
+  top: 10%;
+  bottom: 10%;
+  right: -2%;
+  left: -2%;
+  background: inherit;
+  border-radius: 5% / 50%;
+}
+
+
+body {
+    background-color: # #800000;
+    position: fixed;
+    width: 100%;
+
+}
