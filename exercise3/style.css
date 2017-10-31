@@ -1,54 +1,216 @@
-.rectangle {
-    width: 100%;
-    height: 50px;
-    background: #FAFAFA;
+body {margin:auto;
+  padding:0;
+  background-color:#526C8A;
+  }
+
+
+
+
+
+.searchbar {
+  background-color:#959799;
+  opacity:0.5;
+  width:540px;
+  height:35px;
+  display:block;
+  overflow:auto;
+  color:#FFF;
+  float:left;
+  margin-top: 15px;
+  margin-left: 15px;
+  border-radius:2px;
 }
 
-.container {
- background: #FFF;
- height: 30px;
- width: 150px;
- position: fixed;
- right: 10px;
- top: 30px;
-} 
+.tumblr {
+  background-color:#526C8A;
+  width:25px;
+  height:50px;
+  display:block;
+  color:#FFF;
+  float:left;
+  margin-top: 0px;
+  margin-left: 25px;
+  font-size:50px;
+  font-weight:bold;
+  font-family:serif;
+}
 
-.search_bar {
-    position: relative;
-    width:100px;
-    height:25px;
-    top:30px;
+.signup {
+  background-color:#FFF;
+  width:77px;
+  height:33px;
+  display:block;
+  overflow:auto;
+  color:#000;
+  float:right;
+  margin-top: 15px;
+  margin-right: 40px;
+  border-radius:2px;
+  text-align:center;
+  font-size:20px;
 }
 
 
-.tv {
-  position: relative;
-  left: 70px;
-  top: 13px;
-  width: 30px;
-  height: 20px;
-  margin: 20px 0;
-  background: red;
-  border-radius: 50% / 10%;
-  color: white;
+
+
+.login {
+  background-color:#F9FDD2;
+  width:300px;
+  height:40px;
+  position:absolute; 
+  left:50%;
+  top:50%;
+  color:#000;
+  margin-top:-20px;
+  margin-left:-150px;
+  border-radius:1px;
+  text-align:center;
+}
+
+
+.next {
+  background-color:#58ACEA;
+  width:300px;
+  height:40px;
+  position:absolute; 
+  left:50%;
+  top:50%;
+  color:#FFF;
+  margin-top:30px;
+  margin-left:-150px;
+  border-radius:1px;
   text-align: center;
-  text-indent: .1em;
-}
-.tv:before {
-  content: '';
-  position: absolute;
-  top: 10%;
-  bottom: 10%;
-  right: -2%;
-  left: -2%;
-  background: inherit;
-  border-radius: 5% / 50%;
 }
 
 
-body {
-    background-color: # #800000;
-    position: fixed;
-    width: 100%;
+.logo {
+  background-color:#526C8A;
+  width:300px;
+  height:40px;
+  position:absolute; 
+  left:50%;
+  top:50%;
+  color:#FFF;
+  margin-top:-130px;
+  margin-left:-150px;
+  font-size:70px;
+  text-align:center;
+}
 
+
+.circle {
+  width: 15px;
+  height: 15px;
+  background: #FFF;
+  -moz-border-radius: 50px;
+  -webkit-border-radius: 50px;
+  border-radius: 50px;
+  position:absolute;
+  overflow:auto;
+  float:left;
+  margin-top: 260px;
+  margin-left: 40px;
+}
+
+
+
+.circle1 {
+  width: 15px;
+  height: 15px;
+  opacity:0.5;
+  background: #FFF;
+  -moz-border-radius: 50px;
+  -webkit-border-radius: 50px;
+  border-radius: 50px;
+  position:absolute;
+  overflow:auto;
+  float:left;
+  margin-top: 285px;
+  margin-left: 40px;
+}
+
+.circle2 {
+  width: 15px;
+  height: 15px;
+  opacity:0.5;
+  background: #FFF;
+  -moz-border-radius: 50px;
+  -webkit-border-radius: 50px;
+  border-radius: 50px;
+  position:absolute;
+  overflow:auto;
+  float:left;
+  margin-top: 310px;
+  margin-left: 40px;
+}
+
+
+.circle3 {
+  width: 15px;
+  height: 15px;
+  opacity:0.5;
+  background: #FFF;
+  -moz-border-radius: 50px;
+  -webkit-border-radius: 50px;
+  border-radius: 50px;
+  position:absolute;
+  overflow:auto;
+  float:left;
+  margin-top: 335px;
+  margin-left: 40px;
+}
+
+.circle4 {
+  width: 15px;
+  height: 15px;
+  opacity:0.5;
+  background: #FFF;
+  -moz-border-radius: 50px;
+  -webkit-border-radius: 50px;
+  border-radius: 50px;
+  position:absolute;
+  overflow:auto;
+  float:left;
+  margin-top: 360px;
+  margin-left: 40px;
+}
+
+.circle5 {
+  width: 15px;
+  height: 15px;
+  opacity:0.5;
+  background: #FFF;
+  -moz-border-radius: 50px;
+  -webkit-border-radius: 50px;
+  border-radius: 50px;
+  position:absolute;
+  overflow:auto;
+  float:left;
+  margin-top: 385px;
+  margin-left: 40px;
+}
+
+.whatistumblr {
+  background-color:#3ACD90;
+  width:100%;
+  height:50px;
+  position:absolute; 
+  top:100%;
+  color:#FFF;
+  margin-top:-40px;
+  margin-bottom:-10px;
+}
+
+.bottom {
+  background-color:#526C8A;
+  width:300px;
+  height:40px;
+  position:fixed; 
+  float:left;
+  top:100%;
+  color:#FFF;
+  margin-top:-85px;
+  margin-left:25px;
+  font-size:15px;
+  letter-spacing: 2px;
 }
