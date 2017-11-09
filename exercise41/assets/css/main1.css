@@ -1,0 +1,149 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	background: black;
+}
+
+.canvas {
+	width: 900px;
+	height: 556px;
+	margin: 100px auto;
+	background: #F1F596;
+	position: relative;
+}
+
+
+
+
+
+.square {
+	width: 100px;
+	height: 250px;
+	position:absolute;
+	margin-top:160px;
+	margin-left:500px;
+	background-color:#2D2232;
+	z-index: 4;
+}
+
+.oval {
+	width: 100px;
+	height: 130px;
+	background: #2D2232;
+	-moz-border-radius: 100px / 50px;
+	-webkit-border-radius: 100px / 50px;
+	border-radius: 100px / 50px;
+	margin-top:340px;
+	margin-left:500px;
+	position:absolute;
+	z-index: 4;
+}
+
+
+.oval1 {
+	width: 100px;
+	height: 150px;
+	background: #2D2232;
+	-moz-border-radius: 100px / 50px;
+	-webkit-border-radius: 100px / 50px;
+	border-radius: 100px / 50px;
+	margin-top:130px;
+	margin-left:500px;
+	position:absolute;
+}
+
+.spout {
+	width: 45px;
+	height: 100px;
+	position:absolute;
+	margin-top:65px;
+	margin-left:527px;
+	background-color:#2D2232;
+}
+
+.oval2 {
+	width: 45px;
+	height: 50px;
+	background: #2D2232;
+	-moz-border-radius: 100px / 50px;
+	-webkit-border-radius: 100px / 50px;
+	border-radius: 100px / 50px;
+	margin-top:55px;
+	margin-left:527px;
+	position:absolute;
+	z-index: 4;
+}
+
+
+.reflection {
+	width: 20px;
+	height: 320px;
+	background: #CECDCE;
+	-moz-border-radius: 100px / 50px;
+	-webkit-border-radius: 100px / 50px;
+	border-radius: 100px / 50px;
+	margin-top:143px;
+	margin-left:505px;
+	position:absolute;
+	opacity:0.5;
+	z-index: 5;
+}
+
+
+
+.parallelogram {
+	width: 97px;
+	height: 250px;
+	-webkit-transform: skew(-45deg);
+	   -moz-transform: skew(-45deg);
+	     -o-transform: skew(-45deg);
+	background: #686868;
+	position:absolute;
+	margin-left: 625px;
+	margin-top:200px;
+	z-index: 1;
+}
+
+.parallelogram1 {
+	width: 30px;
+	height: 60px;
+	-webkit-transform: skew(-45deg);
+	   -moz-transform: skew(-45deg);
+	     -o-transform: skew(-45deg);
+	background: #686868;
+	position:absolute;
+	margin-left: 820px;
+	margin-top:135px;
+	z-index: 1;
+}
+
+
+.oval3 {
+	width: 97px;
+	height: 40px;
+	background: #686868;
+	-moz-border-radius: 100px / 50px;
+	-webkit-border-radius: 100px / 50px;
+	border-radius: 100px / 50px;
+	margin-top:180px;
+	margin-left:750px;
+	-webkit-transform: skew(-45deg);
+	 -o-transform: skew(-45deg);
+	position:absolute;
+}
+
+.oval4 {
+	width: 30px;
+	height: 10px;
+	background: #686868;
+	-moz-border-radius: 100px / 50px;
+	-webkit-border-radius: 100px / 50px;
+	border-radius: 100px / 50px;
+	margin-top:130px;
+	margin-left:850px;
+	-webkit-transform: skew(-45deg);
+	 -o-transform: skew(-45deg);
+	position:absolute;
+}
