@@ -1,0 +1,59 @@
+.navigation {
+	font-family:sans-serif;
+	font-size:14px;
+	color:#F96ADA;
+	letter-spacing: 4px;
+	text-align:center;
+	position:fixed;
+	margin-left: 80%;
+}
+
+a:visited {
+	color: #F96ADA;
+}
+
+a:link {
+	color: #F96ADA;
+}
+
+a:hover {
+	color:#A377F0;
+}
+p {
+	padding-left:700px;
+}
+
+
+
+h1{
+	margin:50px;
+	height:100%;
+	top:100%;
+}
+
+
+
+h2 {
+	padding-left: 700px;
+	letter-spacing: 2px;
+}
+
+h3 {
+	padding-left: 700px;
+	letter-spacing: 2px;
+}
+
+h4{
+	padding-left: 160px;
+	letter-spacing: 2px;
+}
+
+h5{
+	padding-left: 200px;
+	letter-spacing: 2px;
+}
+
+h6{
+	padding-left: 250px;
+	letter-spacing: 2px;
+}

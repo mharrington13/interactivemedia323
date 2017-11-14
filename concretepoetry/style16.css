@@ -1,0 +1,35 @@
+.navigation {
+	font-family:sans-serif;
+	font-size:14px;
+	color:#F96ADA;
+	letter-spacing: 4px;
+	text-align:center;
+	position:fixed;
+	margin-left: 80%;
+}
+
+a:visited {
+	color: #F96ADA;
+}
+
+a:link {
+	color: #F96ADA;
+}
+
+a:hover {
+	color:#A377F0;
+}
+
+
+
+
+.text {
+transform: rotate(90deg);
+float: left;
+margin-left: 25%;
+margin-top:-120px;
+line-height: 80px;
+font-size: 40px;
+}
+
+

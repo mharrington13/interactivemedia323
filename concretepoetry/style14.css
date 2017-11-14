@@ -1,0 +1,443 @@
+
+.navigation {
+	font-family:sans-serif;
+	font-size:14px;
+	color:#F96ADA;
+	letter-spacing: 4px;
+	text-align:center;
+	position:fixed;
+	margin-left: 80%;
+}
+
+a:visited {
+	color: #F96ADA;
+}
+
+a:link {
+	color: #F96ADA;
+}
+
+a:hover {
+	color:#A377F0;
+}
+
+
+
+
+.i {
+	margin-top:500px;
+	display:block;
+	position:fixed;
+	float:right;
+	margin-left:20px;
+}
+
+.do {
+	margin-top:470px;
+	display:block;
+	position:fixed;
+	float:right;
+	margin-left:30px;
+}
+
+.not {
+	margin-top:440px;
+	display:block;
+	position:fixed;
+	float:right;
+	margin-left:40px;
+}
+
+.want {
+	margin-top:410px;
+	display:block;
+	position:fixed;
+	float:right;
+	margin-left:50px;
+}
+
+.to {
+	margin-top:380px;
+	display:block;
+	position:fixed;
+	float:right;
+	margin-left:60px;
+}
+
+.have {
+	margin-top:350px;
+	display:block;
+	position:fixed;
+	float:right;
+	margin-left:70px;
+}
+
+.you {
+	margin-top:320px;
+	display:block;
+	position:fixed;
+	float:right;
+	margin-left:80px;
+}
+
+.too {
+	margin-top:290px;
+	display:block;
+	position:fixed;
+	float:right;
+	margin-left:90px;
+}
+
+.fill {
+	margin-top:320px;
+	display:block;
+	position:fixed;
+	float:right;
+	margin-left:110px;
+}
+
+.the {
+	margin-top:350px;
+	display:block;
+	position:fixed;
+	float:right;
+	margin-left:120px;
+}
+
+.empty {
+	margin-top:380px;
+	display:block;
+	position:fixed;
+	float:right;
+	margin-left:130px;
+}
+
+.parts {
+	margin-top:410px;
+	display:block;
+	position:fixed;
+	float:right;
+	margin-left:140px;
+}
+
+.of {
+	margin-top:440px;
+	display:block;
+	position:fixed;
+	float:right;
+	margin-left:150px;
+}
+
+
+.me {
+	margin-top:470px;
+	display:block;
+	position:fixed;
+	float:right;
+	margin-left:160px;
+}
+
+.ii {
+	margin-top:500px;
+	display:block;
+	position:fixed;
+	float:right;
+	margin-left:170px;
+}
+
+.wwant {
+	margin-top:530px;
+	display:block;
+	position:fixed;
+	float:right;
+	margin-left:180px;
+}
+
+.tooo {
+	margin-top:560px;
+	display:block;
+	position:fixed;
+	float:right;
+	margin-left:190px;
+}
+
+.be {
+	margin-top:590px;
+	display:block;
+	position:fixed;
+	float:right;
+	margin-left:200px;
+}
+
+.full {
+	margin-top:620px;
+	display:block;
+	position:fixed;
+	float:right;
+	margin-left:210px;
+}
+
+.on {
+	margin-top:650px;
+	display:block;
+	position:fixed;
+	float:right;
+	margin-left:220px;
+}
+
+.my {
+	margin-top:680px;
+	display:block;
+	position:fixed;
+	float:right;
+	margin-left:230px;
+}
+
+.own {
+	margin-top:710px;
+	display:block;
+	position:fixed;
+	float:right;
+	margin-left:240px;
+}
+
+.iii {
+	margin-top:740px;
+	display:block;
+	position:fixed;
+	float:right;
+	margin-left:250px;
+}
+
+.wwwant {
+	margin-top:700px;
+	display:block;
+	position:fixed;
+	float:right;
+	margin-left:270px;
+}
+
+.two {
+	margin-top:670px;
+	display:block;
+	position:fixed;
+	float:right;
+	margin-left:280px;
+}
+
+.bee {
+	margin-top:640px;
+	display:block;
+	position:fixed;
+	float:right;
+	margin-left:290px;
+}
+
+.so {
+	margin-top:610px;
+	display:block;
+	position:fixed;
+	float:right;
+	margin-left:300px;
+}
+
+.complete {
+	margin-top:580px;
+	display:block;
+	position:fixed;
+	float:right;
+	margin-left:310px;
+}
+
+.iiii {
+	margin-top:550px;
+	display:block;
+	position:fixed;
+	float:right;
+	margin-left:320px;
+}
+
+.could {
+	margin-top:520px;
+	display:block;
+	position:fixed;
+	float:right;
+	margin-left:330px;
+}
+
+.light {
+	margin-top:490px;
+	display:block;
+	position:fixed;
+	float:right;
+	margin-left:340px;
+}
+
+.a {
+	margin-top:460px;
+	display:block;
+	position:fixed;
+	float:right;
+	margin-left:350px;
+}
+
+.whole {
+	margin-top:430px;
+	display:block;
+	position:fixed;
+	float:right;
+	margin-left:360px;
+}
+
+.city {
+	margin-top:400px;
+	display:block;
+	position:fixed;
+	float:right;
+	margin-left:370px;
+}
+
+.annd {
+	margin-top:450px;
+	display:block;
+	position:fixed;
+	float:right;
+	margin-left:390px;
+}
+
+.then {
+	margin-top:480px;
+	display:block;
+	position:fixed;
+	float:right;
+	margin-left:400px;
+}
+
+.iiiii {
+	margin-top:510px;
+	display:block;
+	position:fixed;
+	float:right;
+	margin-left:410px;
+}
+
+.wannnt {
+	margin-top:540px;
+	display:block;
+	position:fixed;
+	float:right;
+	margin-left:420px;
+}
+
+.twoo {
+	margin-top:570px;
+	display:block;
+	position:fixed;
+	float:right;
+	margin-left:430px;
+}
+
+.haveeee {
+	margin-top:600px;
+	display:block;
+	position:fixed;
+	float:right;
+	margin-left:440px;
+}
+
+.youuu {
+	margin-top:630px;
+	display:block;
+	position:fixed;
+	float:right;
+	margin-left:450px;
+}
+
+.cause {
+	margin-top:660px;
+	display:block;
+	position:fixed;
+	float:right;
+	margin-left:460px;
+}
+
+.thhe {
+	margin-top:620px;
+	display:block;
+	position:fixed;
+	float:right;
+	margin-left:490px;
+}
+
+.twooo {
+	margin-top:590px;
+	display:block;
+	position:fixed;
+	float:right;
+	margin-left:500px;
+}
+
+.off {
+	margin-top:560px;
+	display:block;
+	position:fixed;
+	float:right;
+	margin-left:510px;
+}
+
+.us {
+	margin-top:530px;
+	display:block;
+	position:fixed;
+	float:right;
+	margin-left:520px;
+}
+
+
+.combined {
+	margin-top:500px;
+	display:block;
+	position:fixed;
+	float:right;
+	margin-left:530px;
+}
+
+.couldd {
+	margin-top:470px;
+	display:block;
+	position:fixed;
+	float:right;
+	margin-left:540px;
+}
+
+.set {
+	margin-top:440px;
+	display:block;
+	position:fixed;
+	float:right;
+	margin-left:550px;
+}
+
+.iit {
+	margin-top:410px;
+	display:block;
+	position:fixed;
+	float:right;
+	margin-left:560px;
+}
+
+.oonn {
+	margin-top:380px;
+	display:block;
+	position:fixed;
+	float:right;
+	margin-left:570px;
+}
+
+.fire {
+	margin-top:410px;
+	display:block;
+	position:fixed;
+	float:right;
+	margin-left:580px;
+}

@@ -1,0 +1,126 @@
+.navigation {
+	font-family:sans-serif;
+	font-size:14px;
+	color:#F96ADA;
+	letter-spacing: 4px;
+	text-align:center;
+	position:fixed;
+	margin-left: 80%;
+}
+
+a:visited {
+	color: #F96ADA;
+}
+
+a:link {
+	color: #F96ADA;
+}
+
+a:hover {
+	color:#A377F0;
+}
+
+.text {
+	font-family: courier new;
+	line-height:40px;
+	font-size: 80px;
+	text-align:right;
+}
+
+
+
+
+.idonot {
+	border: 5px solid #080401;
+}
+
+
+
+.tohave {
+	border: 5px solid #381C0A;
+}
+
+
+.tofill {
+	border: 5px solid #52290D;
+}
+
+.theempty {
+	border: 5px solid #711511;
+}
+
+
+.iwanttobe {
+	border: 5px solid #8F1A15;
+}
+
+.onmyown {
+	border: 5px solid #A81F19;
+}
+
+.iwant {
+	border: 5px solid #BA3E19;
+}
+
+.so {
+	border: 5px solid #CA4219;
+}
+
+
+.complete {
+	border: 5px solid #D74519;
+}
+
+
+.icouldlight {
+	border: 5px solid #E3481A;
+}
+
+
+.awholecity {
+	border: 5px solid #ED6219;
+}
+
+
+.andthen {
+	border: 5px solid #F36115;
+}
+
+.iwanttohave {
+	border: 5px solid #F6810F;
+}
+
+
+.you {
+	border: 5px solid #F28910;
+}
+
+
+.cause {
+	border: 5px solid #E6A006;
+}
+
+
+.us {
+	border: 5px solid #FEAF01;
+}
+
+.combined {
+	border: 5px solid #FEC401;
+}
+
+
+.couldset {
+	border: 5px solid #FED401;
+}
+
+
+.fire {
+	border: 5px solid #FEF501;
+}
+
+
+
+
+
+

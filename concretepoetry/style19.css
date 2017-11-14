@@ -1,0 +1,30 @@
+.navigation {
+	font-family:sans-serif;
+	font-size:14px;
+	color:#F96ADA;
+	letter-spacing: 4px;
+	text-align:center;
+	position:fixed;
+	margin-left: 80%;
+}
+
+a:visited {
+	color: #F96ADA;
+}
+
+a:link {
+	color: #F96ADA;
+}
+
+a:hover {
+	color:#A377F0;
+}
+
+
+.font {
+	font-size:700px;
+	font-family:helvetica;
+	line-height: 900px;
+	text-align: center;
+	letter-spacing: 30px;
+}

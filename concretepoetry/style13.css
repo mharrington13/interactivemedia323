@@ -1,0 +1,441 @@
+
+.navigation {
+	font-family:sans-serif;
+	font-size:14px;
+	color:#F96ADA;
+	letter-spacing: 4px;
+	text-align:center;
+	position:fixed;
+	margin-left: 80%;
+}
+
+a:visited {
+	color: #F96ADA;
+}
+
+a:link {
+	color: #F96ADA;
+}
+
+a:hover {
+	color:#A377F0;
+}
+
+
+.i {
+	margin-top:40px;
+	display:block;
+	position:fixed;
+	float:right;
+	margin-left:50px;
+}
+
+.do {
+	margin-top:80px;
+	display:block;
+	position:fixed;
+	float:right;
+	margin-left:100px;
+}
+
+.not {
+	margin-top:120px;
+	display:block;
+	position:fixed;
+	float:right;
+	margin-left:150px;
+}
+
+.want {
+	margin-top:160px;
+	display:block;
+	position:fixed;
+	float:right;
+	margin-left:200px;
+}
+
+.to {
+	margin-top:200px;
+	display:block;
+	position:fixed;
+	float:right;
+	margin-left:250px;
+}
+
+.have {
+	margin-top:240px;
+	display:block;
+	position:fixed;
+	float:right;
+	margin-left:300px;
+}
+
+.you {
+	margin-top:280px;
+	display:block;
+	position:fixed;
+	float:right;
+	margin-left:350px;
+}
+
+.too {
+	margin-top:320px;
+	display:block;
+	position:fixed;
+	float:right;
+	margin-left:400px;
+}
+
+.fill {
+	margin-top:280px;
+	display:block;
+	position:fixed;
+	float:right;
+	margin-left:450px;
+}
+
+.the {
+	margin-top:240px;
+	display:block;
+	position:fixed;
+	float:right;
+	margin-left:500px;
+}
+
+.empty {
+	margin-top:280px;
+	display:block;
+	position:fixed;
+	float:right;
+	margin-left:550px;
+}
+
+.parts {
+	margin-top:320px;
+	display:block;
+	position:fixed;
+	float:right;
+	margin-left:600px;
+}
+
+.of {
+	margin-top:360px;
+	display:block;
+	position:fixed;
+	float:right;
+	margin-left:650px;
+}
+
+
+.me {
+	margin-top:400px;
+	display:block;
+	position:fixed;
+	float:right;
+	margin-left:700px;
+}
+
+.ii {
+	margin-top:440px;
+	display:block;
+	position:fixed;
+	float:right;
+	margin-left:750px;
+}
+
+.wwant {
+	margin-top:480px;
+	display:block;
+	position:fixed;
+	float:right;
+	margin-left:800px;
+}
+
+.tooo {
+	margin-top:520px;
+	display:block;
+	position:fixed;
+	float:right;
+	margin-left:850px;
+}
+
+.be {
+	margin-top:560px;
+	display:block;
+	position:fixed;
+	float:right;
+	margin-left:900px;
+}
+
+.full {
+	margin-top:520px;
+	display:block;
+	position:fixed;
+	float:right;
+	margin-left:950px;
+}
+
+.on {
+	margin-top:480px;
+	display:block;
+	position:fixed;
+	float:right;
+	margin-left:1000px;
+}
+
+.my {
+	margin-top:520px;
+	display:block;
+	position:fixed;
+	float:right;
+	margin-left:1050px;
+}
+
+.own {
+	margin-top:560px;
+	display:block;
+	position:fixed;
+	float:right;
+	margin-left:1100px;
+}
+
+.iii {
+	margin-top:600px;
+	display:block;
+	position:fixed;
+	float:right;
+	margin-left:1150px;
+}
+
+.wwwant {
+	margin-top:640px;
+	display:block;
+	position:fixed;
+	float:right;
+	margin-left:1200px;
+}
+
+.two {
+	margin-top:680px;
+	display:block;
+	position:fixed;
+	float:right;
+	margin-left:1250px;
+}
+
+.bee {
+	margin-top:720px;
+	display:block;
+	position:fixed;
+	float:right;
+	margin-left:1300px;
+}
+
+.so {
+	margin-top:760px;
+	display:block;
+	position:fixed;
+	float:right;
+	margin-left:1350px;
+}
+
+.complete {
+	margin-top:720px;
+	display:block;
+	position:fixed;
+	float:right;
+	margin-left:1400px;
+}
+
+.iiii {
+	margin-top:680px;
+	display:block;
+	position:fixed;
+	float:right;
+	margin-left:1450px;
+}
+
+.could {
+	margin-top:720px;
+	display:block;
+	position:fixed;
+	float:right;
+	margin-left:1500px;
+}
+
+.light {
+	margin-top:760px;
+	display:block;
+	position:fixed;
+	float:right;
+	margin-left:1550px;
+}
+
+.a {
+	margin-top:800px;
+	display:block;
+	position:fixed;
+	float:right;
+	margin-left:1600px;
+}
+
+.whole {
+	margin-top:840px;
+	display:block;
+	position:fixed;
+	float:right;
+	margin-left:1650px;
+}
+
+.city {
+	margin-top:880px;
+	display:block;
+	position:fixed;
+	float:right;
+	margin-left:1700px;
+}
+
+.annd {
+	margin-top:920px;
+	display:block;
+	position:fixed;
+	float:right;
+	margin-left:1750px;
+}
+
+.then {
+	margin-top:960px;
+	display:block;
+	position:fixed;
+	float:right;
+	margin-left:1800px;
+}
+
+.iiiii {
+	margin-top:920px;
+	display:block;
+	position:fixed;
+	float:right;
+	margin-left:1850px;
+}
+
+.wannnt {
+	margin-top:880px;
+	display:block;
+	position:fixed;
+	float:right;
+	margin-left:1900px;
+}
+
+.twoo {
+	margin-top:920px;
+	display:block;
+	position:fixed;
+	float:right;
+	margin-left:1950px;
+}
+
+.haveeee {
+	margin-top:960px;
+	display:block;
+	position:fixed;
+	float:right;
+	margin-left:2000px;
+}
+
+.youuu {
+	margin-top:1000px;
+	display:block;
+	position:fixed;
+	float:right;
+	margin-left:2050px;
+}
+
+.cause {
+	margin-top:1050px;
+	display:block;
+	position:fixed;
+	float:right;
+	margin-left:2100px;
+}
+
+.thhe {
+	margin-top:1100px;
+	display:block;
+	position:fixed;
+	float:right;
+	margin-left:2150px;
+}
+
+.twooo {
+	margin-top:1150px;
+	display:block;
+	position:fixed;
+	float:right;
+	margin-left:2200px;
+}
+
+.off {
+	margin-top:1100px;
+	display:block;
+	position:fixed;
+	float:right;
+	margin-left:2250px;
+}
+
+.us {
+	margin-top:1050px;
+	display:block;
+	position:fixed;
+	float:right;
+	margin-left:2300px;
+}
+
+
+.combined {
+	margin-top:1000px;
+	display:block;
+	position:fixed;
+	float:right;
+	margin-left:2350px;
+}
+
+.couldd {
+	margin-top:950px;
+	display:block;
+	position:fixed;
+	float:right;
+	margin-left:2400px;
+}
+
+.set {
+	margin-top:900px;
+	display:block;
+	position:fixed;
+	float:right;
+	margin-left:2450px;
+}
+
+.iit {
+	margin-top:850px;
+	display:block;
+	position:fixed;
+	float:right;
+	margin-left:2500px;
+}
+
+.oonn {
+	margin-top:800px;
+	display:block;
+	position:fixed;
+	float:right;
+	margin-left:2550px;
+}
+
+.fire {
+	margin-top:750px;
+	display:block;
+	position:fixed;
+	float:right;
+	margin-left:2600px;
+}
