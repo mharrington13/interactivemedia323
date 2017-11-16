@@ -1,0 +1,73 @@
+/* Base */
+
+html, body {
+	height: 100%;
+}
+
+body {
+	background: url('https://static.boredpanda.com/blog/wp-content/uploads/2016/01/anxiety-comics-funny-illustrations-gemma-correll-2__700.jpg');
+}
+
+h1 {
+	font-size: 300px;
+  color: red;
+  text-align:center;
+}
+
+
+
+
+/* Media Queries */
+@media screen and (max-width: 2000px) {
+
+  body { background: url('https://static.boredpanda.com/blog/wp-content/uploads/2016/01/anxiety-comics-funny-illustrations-gemma-correll-6__700.jpg') ; }
+  h1 { font-size: 200px; }
+
+}
+
+
+@media screen and (max-width: 1500px) {
+
+  body { background: url('https://pbs.twimg.com/media/ClfG1n0WQAAwjIh.jpg') ; }
+  h1 { font-size: 150px; }
+
+}
+
+
+
+
+@media screen and (max-width: 1024px) {
+
+  body { background: url('https://static.boredpanda.com/blog/wp-content/uploads/2016/01/anxiety-comics-funny-illustrations-gemma-correll-4__700.jpg') ; }
+  h1 { font-size: 100px; }
+
+}
+
+@media screen and (max-width: 768px) {
+
+  body { background: url('https://static.boredpanda.com/blog/wp-content/uploads/2016/01/anxiety-comics-funny-illustrations-gemma-correll-11__700.jpg'); }
+  h1 { font-size: 70px; }
+
+}
+
+@media screen and (max-width: 600px) {
+
+  body { background: url('http://www.chicagonow.com/ups-and-downs-of-a-yoga-mom/files/2015/11/12243459_1025721914158749_7799057397311857259_n.jpg'); }
+  h1 { font-size: 50px; }
+
+}
+
+@media screen and (max-width: 500px) {
+  
+  body { background: url('http://ugc-01.cafemomstatic.com/gen/constrain/500/500/80/2016/03/17/12/4e/kb/po0ukbtb40.jpg'); }
+  h1 { font-size: 10px; }
+  div { display: block; }
+
+}
+
+@media screen and (max-width: 320px) {
+
+  body { background: url('http://www.chicagonow.com/ups-and-downs-of-a-yoga-mom/files/2015/11/12243459_1025721914158749_7799057397311857259_n.jpg');}
+  h1 { font-size: 8px; }
+
+}
