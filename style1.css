@@ -1,0 +1,16 @@
+h1 {
+	font-family:avenir;
+	text-align:center;
+}
+
+a:visited {
+	color: #F96ADA;
+}
+
+a:link {
+	color: #F96ADA;
+}
+
+a:hover {
+	color:#A377F0;
+}
