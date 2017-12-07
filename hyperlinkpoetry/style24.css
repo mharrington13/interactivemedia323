@@ -1,0 +1,58 @@
+body {
+	background-color: #a8383b;
+}
+
+
+
+.love {
+	font-family:avenir;
+	font-size:40px;
+	color:#ffaaaa;
+	letter-spacing: 10px;
+	text-align:left;
+	position:fixed;
+	margin-left: 40%;
+	margin-top: 30%;
+	opacity:0.2;
+}
+
+.love1 {
+	font-family:avenir;
+	font-size:50px;
+	color:#ffaaaa;
+	letter-spacing: 10px;
+	text-align:left;
+	position:fixed;
+	margin-left: 40%;
+	margin-top: 30%;
+	transform: rotate(30deg);
+	opacity:0.4;
+}
+
+.love2 {
+	font-family:avenir;
+	font-size:120px;
+	color:#ffaaaa;
+	letter-spacing: 10px;
+	text-align:left;
+	position:fixed;
+	margin-left: 30%;
+	margin-top: 25%;
+	transform: rotate(10deg);
+}
+
+a:visited {
+	color: #790202;
+}
+
+a:link {
+	color: #380000;
+}
+
+a:hover {
+	color:#FFF4F4;
+}
+
+a:link {
+    text-decoration: none;
+}

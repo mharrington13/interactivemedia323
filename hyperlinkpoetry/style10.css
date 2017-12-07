@@ -1,0 +1,47 @@
+body {
+	background-color: #a8383b;
+}
+
+
+
+.lava {
+	font-family:avenir;
+	font-size:400px;
+	color:#ffaaaa;
+	letter-spacing: 4px;
+	text-align:left;
+	position:fixed;
+	margin-left: 15%;
+	margin-top: 7%;
+	transform: rotate(-90deg);
+}
+
+.flooded {
+	font-family:avenir;
+	font-size:50px;
+	color:#ffaaaa;
+	letter-spacing: 15px;
+	text-align:left;
+	position:fixed;
+	margin-left: 50%;
+	margin-top: 1%;
+	line-height: 80px;
+}
+
+
+
+a:visited {
+	color: #790202;
+}
+
+a:link {
+	color: #380000;
+}
+
+a:hover {
+	color:#FFF4F4;
+}
+
+a:link {
+    text-decoration: none;
+}

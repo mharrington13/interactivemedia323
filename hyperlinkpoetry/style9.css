@@ -1,0 +1,60 @@
+body {
+	background-color: #a8383b;
+}
+
+
+
+.volcanoes {
+	font-family:avenir;
+	font-size:50px;
+	color:#ffaaaa;
+	letter-spacing: 10px;
+	text-align:left;
+	position:fixed;
+	margin-left: 2%;
+	margin-top: 10%;
+	z-index: 2;
+}
+
+.erupted {
+	font-family:avenir;
+	font-size:160px;
+	color:#ffaaaa;
+	letter-spacing: 10px;
+	text-align:left;
+	position:fixed;
+	margin-left: 15%;
+	margin-top: 20%;
+	transform: rotate(90deg);
+	opacity:0.6;
+	z-index: 1;
+}
+
+.when {
+	font-family:avenir;
+	font-size:30px;
+	color:#ffaaaa;
+	letter-spacing: 7px;
+	text-align:right;
+	position:fixed;
+	margin-left: 30%;
+	margin-top: 35%;
+	z-index: 2;
+}
+
+
+a:visited {
+	color: #790202;
+}
+
+a:link {
+	color: #380000;
+}
+
+a:hover {
+	color:#FFF4F4;
+}
+
+a:link {
+    text-decoration: none;
+}

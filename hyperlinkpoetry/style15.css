@@ -1,0 +1,34 @@
+body {
+	background-color: #a8383b;
+}
+
+
+
+.hand {
+	font-family:avenir;
+	font-size:40px;
+	color:#ffaaaa;
+	letter-spacing: 4px;
+	text-align:left;
+	position:fixed;
+	margin-left: 27%;
+	margin-top: 30%;
+}
+
+
+
+a:visited {
+	color: #790202;
+}
+
+a:link {
+	color: #380000;
+}
+
+a:hover {
+	color:#FFF4F4;
+}
+
+a:link {
+    text-decoration: none;
+}

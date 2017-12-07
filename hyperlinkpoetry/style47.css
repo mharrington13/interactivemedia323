@@ -1,0 +1,60 @@
+body {
+	background-color: #a8383b;
+}
+
+
+
+.me {
+	font-family:avenir;
+	font-size:30px;
+	color:#ffaaaa;
+	letter-spacing: 4px;
+	text-align:center;
+	line-height: 60px;
+	position:fixed;
+	margin-top: 10%;
+	margin-left:10%;
+}
+
+.surface {
+	font-family:avenir;
+	font-size:23px;
+	color:#ffaaaa;
+	letter-spacing: 2px;
+	text-align:left;
+	line-height: 60px;
+	position:fixed;
+	margin-top: 25%;
+	margin-left:30%;
+	transform: rotate(90deg);
+}
+
+.you {
+	font-family:avenir;
+	font-size:200px;
+	color:#ffaaaa;
+	letter-spacing: 4px;
+	text-align:center;
+	line-height: 40px;
+	position:fixed;
+	margin-top: 40%;
+	margin-left:10%;
+}
+
+
+
+a:visited {
+	color: #790202;
+}
+
+a:link {
+	color: #380000;
+}
+
+a:hover {
+	color:#FFF4F4;
+}
+
+a:link {
+    text-decoration: none;
+}

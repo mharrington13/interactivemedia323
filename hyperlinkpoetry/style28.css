@@ -1,0 +1,82 @@
+body {
+	background-color: #a8383b;
+}
+
+
+
+.flowers {
+	font-family:avenir;
+	font-size:90px;
+	color:#ffaaaa;
+	letter-spacing: 2px;
+	text-align:left;
+	position:fixed;
+	margin-top: 2%;
+	margin-left:2%;
+}
+
+.growing {
+	font-family:avenir;
+	font-size:90px;
+	color:#ffaaaa;
+	letter-spacing: 2px;
+	text-align:left;
+	position:fixed;
+	margin-top: 16%;
+	margin-left:1%;
+	transform: rotate(90deg);
+}
+
+.stomach {
+	font-family:avenir;
+	font-size:60px;
+	color:#ffaaaa;
+	letter-spacing: 2px;
+	text-align:left;
+	position:fixed;
+	margin-top: 22%;
+	margin-left:15%;
+	text-transform:uppercase;
+}
+
+.my {
+	font-family:avenir;
+	font-size:70px;
+	color:#ffaaaa;
+	letter-spacing: 2px;
+	text-align:left;
+	position:fixed;
+	margin-top: 33%;
+	margin-left:46%;
+	transform: rotate(90deg);
+}
+
+.aredead {
+	font-family:avenir;
+	font-size:100px;
+	color:#ffaaaa;
+	letter-spacing: 2px;
+	text-align:left;
+	position:fixed;
+	margin-top: 40%;
+	margin-left:61%;
+	text-transform:uppercase;
+}
+
+
+
+a:visited {
+	color: #790202;
+}
+
+a:link {
+	color: #380000;
+}
+
+a:hover {
+	color:#FFF4F4;
+}
+
+a:link {
+    text-decoration: none;
+}

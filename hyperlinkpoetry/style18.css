@@ -1,0 +1,132 @@
+body {
+	background-color: #a8383b;
+}
+
+
+
+.hand {
+	font-family:avenir;
+	font-size:95px;
+	color:#a8383b;
+	letter-spacing: 10px;
+	text-align:left;
+	position:fixed;
+}
+
+.hand1 {
+	font-family:avenir;
+	font-size:95px;
+	color:#a8383b;
+	letter-spacing: 10px;
+	text-align:left;
+	position:fixed;
+	margin-top:8%;
+}
+
+.hand2 {
+	font-family:avenir;
+	font-size:95px;
+	color:#a8383b;
+	letter-spacing: 10px;
+	text-align:left;
+	position:fixed;
+	margin-top:16%;
+}
+
+.hand3 {
+	font-family:avenir;
+	font-size:95px;
+	color:#a8383b;
+	letter-spacing: 10px;
+	text-align:left;
+	position:fixed;
+	margin-top:24%;
+}
+
+.hand4 {
+	font-family:avenir;
+	font-size:95px;
+	color:#a8383b;
+	letter-spacing: 10px;
+	text-align:left;
+	position:fixed;
+	margin-top:32%;
+}
+
+.hand5 {
+	font-family:avenir;
+	font-size:95px;
+	color:#a8383b;
+	letter-spacing: 10px;
+	text-align:left;
+	position:fixed;
+	margin-top:40%;
+}
+
+.hand6 {
+	font-family:avenir;
+	font-size:95px;
+	color:#a8383b;
+	letter-spacing: 10px;
+	text-align:left;
+	position:fixed;
+	margin-top:48%;
+}
+
+.hand7 {
+	font-family:avenir;
+	font-size:95px;
+	color:#a8383b;
+	letter-spacing: 10px;
+	text-align:left;
+	position:fixed;
+	margin-top:56%;
+}
+
+.hand:hover {
+    color:#F6D7FB;
+}
+
+.hand1:hover {
+    color:#F6D7FB;
+}
+
+.hand2:hover {
+    color:#F6D7FB;
+}
+
+.hand3:hover {
+    color:#F6D7FB;
+}
+
+.hand4:hover {
+    color:#F6D7FB;
+}
+
+.hand5:hover {
+    color:#F6D7FB;
+}
+
+.hand6:hover {
+    color:#F6D7FB;
+}
+
+.hand7:hover {
+    color:#F6D7FB;
+}
+
+a:visited {
+	color: #790202;
+}
+
+a:link {
+	color: #380000;
+}
+
+a:hover {
+	color:#FFF4F4;
+}
+
+a:link {
+    text-decoration: none;
+}

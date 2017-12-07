@@ -1,0 +1,35 @@
+body {
+	background-color: #a8383b;
+}
+
+
+
+.us {
+	font-family:avenir;
+	font-size:1000px;
+	color:#ffaaaa;
+	letter-spacing: 10px;
+	text-align:center;
+	line-height: 70px;
+	position:fixed;
+	margin-top: 27%;
+	margin-left:-5%;
+}
+
+
+
+a:visited {
+	color: #790202;
+}
+
+a:link {
+	color: #380000;
+}
+
+a:hover {
+	color:#FFF4F4;
+}
+
+a:link {
+    text-decoration: none;
+}

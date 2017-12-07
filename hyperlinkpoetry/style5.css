@@ -1,0 +1,49 @@
+body {
+	background-color: #a8383b;
+}
+
+
+
+.fuck {
+	font-family:avenir;
+	font-size:60px;
+	color:#ffaaaa;
+	letter-spacing: 10px;
+	text-align:left;
+	position:fixed;
+	margin-left: 10%;
+	margin-top: 20%;
+	z-index: 2;
+}
+
+
+
+.forest {
+	font-family:avenir;
+	font-size:300px;
+	color:#ffaaaa;
+	letter-spacing: 10px;
+	text-align:left;
+	position:fixed;
+	margin-left: 8%;
+	margin-top: 10%;
+	opacity:0.5;
+	z-index: 1;
+}
+
+
+a:visited {
+	color: #790202;
+}
+
+a:link {
+	color: #380000;
+}
+
+a:hover {
+	color:#FFF4F4;
+}
+
+a:link {
+    text-decoration: none;
+}
